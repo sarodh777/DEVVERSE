@@ -85,3 +85,4 @@ npm run preview
 - **Department:** Department of Computer Science & Engineering
 - **Institution:** Karavali Institute of Technology, Mangalore
 - **Affiliation:** In collaboration with Institution’s Innovation Council (IIC), KIT
+
